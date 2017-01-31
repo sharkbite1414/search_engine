@@ -1,10 +1,11 @@
 /* Header styles */
 .navbar {
   text-align: right;
+
 }
 .navbar ul {
   list-style-type: none;
-  margin: 0;
+  margin: 1em 1em 0 0;
   padding: 0;
 }
 .navbar li {
@@ -23,6 +24,7 @@
 /* Main body styles*/
 body {
   text-align: center;
+  margin: 0;
 }
 
 .container {
