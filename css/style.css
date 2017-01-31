@@ -117,7 +117,7 @@ input[type=submit]:hover {
 .footer a {
   font-family: 'Open Sans', sans-serif;
   font-size: 10pt;
-  color: rgba(75, 75, 75, 1);
+  color: #666;
   text-decoration: none;
   margin: 8px;
 }
